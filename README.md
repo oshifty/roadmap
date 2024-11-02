@@ -4,12 +4,12 @@ Tracking the global progress and next steps to bring SHIFTY to life 🚧
 ## Usage
 Issues will automatically be displayed on the website in the Roadmap section and on the Roadmap page (todo: links). Closed issues will be marked as done - therefore delete non-relevant issues.
 
-The Issue Body needs to contain a html comment spanning four lines to set the date and the order, for example:
+The Issue Body needs to contain a html comment spanning four lines to set the date and the date label, for example:
 
 ```html
 <--
-date: November 2024
-order: 3
+date: 2022-11
+dateLabel: November 2024
 -->
 ```
 
